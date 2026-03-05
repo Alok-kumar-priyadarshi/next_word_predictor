@@ -5,8 +5,11 @@ A **Natural Language Processing (NLP)** project that predicts the **next word in
 The application is deployed using **Streamlit**, allowing users to input a sequence of words and receive the predicted next word based on the trained model.
 
 ---
+##Live link :- https://alok-nextwordpredictor-goku.streamlit.app/
 
 ## Application Preview
+
+
 
 ![App Screenshot](screenshots/image.png)
 
@@ -137,7 +140,7 @@ next_word_predictor/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/next-word-predictor.git
+git clone https://github.com/Alok-kumar-priyadarshi/next-word-predictor.git
 cd next-word-predictor
 ```
 
