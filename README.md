@@ -5,7 +5,7 @@ A **Natural Language Processing (NLP)** project that predicts the **next word in
 The application is deployed using **Streamlit**, allowing users to input a sequence of words and receive the predicted next word based on the trained model.
 
 ---
-##Live link :- https://alok-nextwordpredictor-goku.streamlit.app/
+## Live link :- https://alok-nextwordpredictor-goku.streamlit.app/
 
 ---
 
